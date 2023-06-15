@@ -1,0 +1,222 @@
+.cen {
+  text-align: center;
+  margin-bottom: 3%;
+}
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 3%;
+  color: #000;
+}
+.contact p {
+  cursor: grab;
+}
+.quote {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: medium;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: xx-large;
+  border-radius: 5px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  font-size: medium;
+  font-weight: bold;
+  background-color: #4caf50;
+  padding: 7px;
+}
+.nav {
+  background-color: #4caf50;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+.product-showcase {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  color: rgb(0, 0, 0);
+}
+.p-showcase2 {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 7px;
+  color: rgb(0, 0, 0);
+}
+.centered-heading {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+}
+
+.product {
+  display: flex;
+  width: 300px;
+}
+
+.box-container {
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  background-color: #e7e9e8;
+  height: auto;
+  margin-top: 3%;
+}
+
+.product img {
+  width: 300px;
+  height: 250px;
+  margin-bottom: 10px;
+}
+
+.product p {
+  margin-bottom: 10px;
+}
+
+.product1 {
+  display: inline-flex;
+  width: 300px;
+}
+.product1 img {
+  width: 300px;
+  height: 250px;
+  margin-bottom: 10px;
+}
+
+.product1 p {
+  margin-bottom: 10px;
+}
+.box-container1 {
+  margin-top: 7px;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  background-color: #e7e9e8;
+}
+.team {
+  display: flex;
+  margin-top: 60px;
+  background-color: #4caf50;
+  border-radius: 5px;
+}
+.team h2 {
+  margin-left: 40px;
+  margin-bottom: 40px;
+  color: white;
+  font-size: xx-large;
+}
+.team img {
+  margin-bottom: -4px;
+}
+.team p {
+  color: white;
+  text-align: left;
+  margin: 20px;
+  margin-left: 40px;
+}
+.key {
+  margin-top: 60px;
+  margin-left: 40px;
+  color: white;
+  text-align: left;
+}
+.key1 {
+  color: white;
+  margin-left: 400px;
+  margin-top: -90px;
+}
+
+.num {
+  font-weight: bold;
+}
+.mail img {
+  height: 20px;
+  margin-top: 15px;
+  margin-right: 2px;
+}
+.mail {
+  display: inline-flex;
+}
+.about {
+  margin-top: 1%;
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+.about p {
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-bottom: 1%;
+  color: #000;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 20px;
+}
+
+.services {
+  text-align: center;
+  padding: 40px;
+}
+
+.service {
+  display: inline-block;
+  margin: 20px;
+  text-align: center;
+}
+
+.service img {
+  height: 25%;
+  width: 25%;
+}
+
+.service h3 {
+  margin: 1%;
+}
+
+footer {
+  background-color: #e7e9e8;
+  color: #000;
+  padding: 20px;
+  text-align: center;
+}
+.ul {
+  margin-top: -2%;
+}
+.help {
+  text-align: center;
+  padding: 40px;
+}
+.faq {
+  margin-bottom: 40px;
+}
+.faq h3 {
+  margin-top: 2%;
+}
+.contact-help {
+  margin-bottom: 40px;
+}
+.contact-help h3 {
+  margin: 0 0 20px;
+}
